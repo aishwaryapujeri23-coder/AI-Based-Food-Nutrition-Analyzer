@@ -1,0 +1,54 @@
+Basics of Diet Planning and Meal Planning
+
+This note explains the general concepts behind personalized diet planning
+and meal planning, which pairs with the calculators in this application.
+
+Understanding BMR and TDEE:
+- BMR (Basal Metabolic Rate) is the number of calories your body needs at
+  complete rest just to maintain basic functions like breathing and
+  circulation.
+- A common way to estimate BMR is the Mifflin-St Jeor equation, which uses
+  weight, height, age, and gender.
+- TDEE (Total Daily Energy Expenditure) takes BMR and multiplies it by an
+  activity factor to estimate how many calories you burn in a typical day,
+  including exercise and daily movement.
+- Activity factors typically range from about 1.2 (sedentary, little or no
+  exercise) up to about 1.9 (very intense training or physically demanding
+  jobs).
+
+Setting a calorie target:
+- To lose weight, a modest deficit below TDEE (commonly around 15-20%) is
+  generally more sustainable than a very large deficit.
+- To maintain weight, calorie intake is set close to TDEE.
+- To gain muscle or weight, a modest surplus above TDEE (commonly around
+  10-20%) combined with resistance training supports lean gains rather
+  than mostly fat gain.
+
+Macronutrient splits:
+- Protein: supports muscle repair and growth, and is particularly
+  important during weight loss (to preserve muscle) and muscle gain (to
+  build it). Roughly 25-35% of calories from protein is a common range
+  depending on goal.
+- Carbohydrates: the body's primary energy source, especially for
+  higher-intensity exercise. Whole, minimally processed carbohydrate
+  sources are generally preferred over refined ones.
+- Fat: supports hormone production and nutrient absorption. Healthy fats
+  from nuts, seeds, oils, and fish are preferred over trans fats and
+  excessive saturated fat.
+
+Building a day of meals:
+- Distributing calories across 3-5 meals (breakfast, lunch, dinner, and
+  optional snacks) helps manage hunger and energy levels throughout the
+  day.
+- Each meal ideally includes a protein source, a fiber-rich vegetable or
+  fruit, and a portion of whole-grain or other complex carbohydrate,
+  adjusted based on individual calorie and macro targets.
+- Snacks, when included, are best chosen to add protein or fiber (such as
+  nuts, roasted chana, yogurt, or fruit) rather than empty calories.
+- Meal plans should also be adapted for dietary preference (vegetarian,
+  vegan, non-vegetarian) and any medical conditions, since some conditions
+  require additional adjustments beyond general calorie and macro targets.
+
+This information is educational and general in nature. Extreme or very
+low-calorie diets should not be undertaken without guidance from a doctor
+or registered dietitian.
